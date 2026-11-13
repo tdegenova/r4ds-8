@@ -1,0 +1,13 @@
+---
+title: "Prediction Markets"
+author: "tdegenova"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+#| message: false
+library(tidyverse)
+library(arrow)
+```
